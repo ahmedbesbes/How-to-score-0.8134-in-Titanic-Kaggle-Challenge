@@ -12,5 +12,5 @@ In a form of a jupyter notebook, my solution goes through the basic steps of a d
 - Modeling 
 - Modelfine-tuning
 
-
+![energy](./images/article_1/score.png)
 
